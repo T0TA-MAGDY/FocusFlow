@@ -1,0 +1,11 @@
+E:\IEEE Focus Flow\FocusFlow.Domain\bin\Debug\net8.0\FocusFlow.Domain.deps.json
+E:\IEEE Focus Flow\FocusFlow.Domain\bin\Debug\net8.0\FocusFlow.Domain.dll
+E:\IEEE Focus Flow\FocusFlow.Domain\bin\Debug\net8.0\FocusFlow.Domain.pdb
+E:\IEEE Focus Flow\FocusFlow.Domain\obj\Debug\net8.0\FocusFlow.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\IEEE Focus Flow\FocusFlow.Domain\obj\Debug\net8.0\FocusFlow.Domain.AssemblyInfoInputs.cache
+E:\IEEE Focus Flow\FocusFlow.Domain\obj\Debug\net8.0\FocusFlow.Domain.AssemblyInfo.cs
+E:\IEEE Focus Flow\FocusFlow.Domain\obj\Debug\net8.0\FocusFlow.Domain.csproj.CoreCompileInputs.cache
+E:\IEEE Focus Flow\FocusFlow.Domain\obj\Debug\net8.0\FocusFlow.Domain.dll
+E:\IEEE Focus Flow\FocusFlow.Domain\obj\Debug\net8.0\refint\FocusFlow.Domain.dll
+E:\IEEE Focus Flow\FocusFlow.Domain\obj\Debug\net8.0\FocusFlow.Domain.pdb
+E:\IEEE Focus Flow\FocusFlow.Domain\obj\Debug\net8.0\ref\FocusFlow.Domain.dll

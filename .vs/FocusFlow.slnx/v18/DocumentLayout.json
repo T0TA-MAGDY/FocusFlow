@@ -1,0 +1,567 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\IEEE Focus Flow\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71C276F0-C7A1-F3E6-3B6C-367040E0BE91}|FocusFlow.API\\FocusFlow.API.csproj|e:\\ieee focus flow\\focusflow.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71C276F0-C7A1-F3E6-3B6C-367040E0BE91}|FocusFlow.API\\FocusFlow.API.csproj|solutionrelative:focusflow.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DC6AB69-405D-F1C6-6A6D-31F2F6D0F088}|FocusFlow.Infrastructure\\FocusFlow.Infrastructure.csproj|e:\\ieee focus flow\\focusflow.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DC6AB69-405D-F1C6-6A6D-31F2F6D0F088}|FocusFlow.Infrastructure\\FocusFlow.Infrastructure.csproj|solutionrelative:focusflow.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DC6AB69-405D-F1C6-6A6D-31F2F6D0F088}|FocusFlow.Infrastructure\\FocusFlow.Infrastructure.csproj|e:\\ieee focus flow\\focusflow.infrastructure\\persistence\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DC6AB69-405D-F1C6-6A6D-31F2F6D0F088}|FocusFlow.Infrastructure\\FocusFlow.Infrastructure.csproj|solutionrelative:focusflow.infrastructure\\persistence\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DC6AB69-405D-F1C6-6A6D-31F2F6D0F088}|FocusFlow.Infrastructure\\FocusFlow.Infrastructure.csproj|e:\\ieee focus flow\\focusflow.infrastructure\\persistence\\repositories\\focussessionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DC6AB69-405D-F1C6-6A6D-31F2F6D0F088}|FocusFlow.Infrastructure\\FocusFlow.Infrastructure.csproj|solutionrelative:focusflow.infrastructure\\persistence\\repositories\\focussessionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DC6AB69-405D-F1C6-6A6D-31F2F6D0F088}|FocusFlow.Infrastructure\\FocusFlow.Infrastructure.csproj|e:\\ieee focus flow\\focusflow.infrastructure\\persistence\\configurations\\focussessionconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DC6AB69-405D-F1C6-6A6D-31F2F6D0F088}|FocusFlow.Infrastructure\\FocusFlow.Infrastructure.csproj|solutionrelative:focusflow.infrastructure\\persistence\\configurations\\focussessionconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DC6AB69-405D-F1C6-6A6D-31F2F6D0F088}|FocusFlow.Infrastructure\\FocusFlow.Infrastructure.csproj|e:\\ieee focus flow\\focusflow.infrastructure\\auth\\passwordhasherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DC6AB69-405D-F1C6-6A6D-31F2F6D0F088}|FocusFlow.Infrastructure\\FocusFlow.Infrastructure.csproj|solutionrelative:focusflow.infrastructure\\auth\\passwordhasherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DC6AB69-405D-F1C6-6A6D-31F2F6D0F088}|FocusFlow.Infrastructure\\FocusFlow.Infrastructure.csproj|e:\\ieee focus flow\\focusflow.infrastructure\\auth\\jwtoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DC6AB69-405D-F1C6-6A6D-31F2F6D0F088}|FocusFlow.Infrastructure\\FocusFlow.Infrastructure.csproj|solutionrelative:focusflow.infrastructure\\auth\\jwtoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DC6AB69-405D-F1C6-6A6D-31F2F6D0F088}|FocusFlow.Infrastructure\\FocusFlow.Infrastructure.csproj|e:\\ieee focus flow\\focusflow.infrastructure\\auth\\currentuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DC6AB69-405D-F1C6-6A6D-31F2F6D0F088}|FocusFlow.Infrastructure\\FocusFlow.Infrastructure.csproj|solutionrelative:focusflow.infrastructure\\auth\\currentuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B803FD81-C319-A1FF-D390-DA259F026AFA}|FocusFlow.Application\\FocusFlow.Application.csproj|e:\\ieee focus flow\\focusflow.application\\features\\tasks\\queries\\gettasks\\gettasksqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B803FD81-C319-A1FF-D390-DA259F026AFA}|FocusFlow.Application\\FocusFlow.Application.csproj|solutionrelative:focusflow.application\\features\\tasks\\queries\\gettasks\\gettasksqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B803FD81-C319-A1FF-D390-DA259F026AFA}|FocusFlow.Application\\FocusFlow.Application.csproj|e:\\ieee focus flow\\focusflow.application\\features\\sessions\\commands\\createsession\\createsessioncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B803FD81-C319-A1FF-D390-DA259F026AFA}|FocusFlow.Application\\FocusFlow.Application.csproj|solutionrelative:focusflow.application\\features\\sessions\\commands\\createsession\\createsessioncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B803FD81-C319-A1FF-D390-DA259F026AFA}|FocusFlow.Application\\FocusFlow.Application.csproj|e:\\ieee focus flow\\focusflow.application\\features\\sessions\\commands\\createsession\\createsessioncommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B803FD81-C319-A1FF-D390-DA259F026AFA}|FocusFlow.Application\\FocusFlow.Application.csproj|solutionrelative:focusflow.application\\features\\sessions\\commands\\createsession\\createsessioncommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B803FD81-C319-A1FF-D390-DA259F026AFA}|FocusFlow.Application\\FocusFlow.Application.csproj|e:\\ieee focus flow\\focusflow.application\\dtos\\sessions\\focussessiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B803FD81-C319-A1FF-D390-DA259F026AFA}|FocusFlow.Application\\FocusFlow.Application.csproj|solutionrelative:focusflow.application\\dtos\\sessions\\focussessiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B803FD81-C319-A1FF-D390-DA259F026AFA}|FocusFlow.Application\\FocusFlow.Application.csproj|e:\\ieee focus flow\\focusflow.application\\features\\auth\\commands\\register\\registercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B803FD81-C319-A1FF-D390-DA259F026AFA}|FocusFlow.Application\\FocusFlow.Application.csproj|solutionrelative:focusflow.application\\features\\auth\\commands\\register\\registercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B803FD81-C319-A1FF-D390-DA259F026AFA}|FocusFlow.Application\\FocusFlow.Application.csproj|e:\\ieee focus flow\\focusflow.application\\features\\auth\\commands\\login\\logincommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B803FD81-C319-A1FF-D390-DA259F026AFA}|FocusFlow.Application\\FocusFlow.Application.csproj|solutionrelative:focusflow.application\\features\\auth\\commands\\login\\logincommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B803FD81-C319-A1FF-D390-DA259F026AFA}|FocusFlow.Application\\FocusFlow.Application.csproj|e:\\ieee focus flow\\focusflow.application\\features\\auth\\commands\\login\\logincommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B803FD81-C319-A1FF-D390-DA259F026AFA}|FocusFlow.Application\\FocusFlow.Application.csproj|solutionrelative:focusflow.application\\features\\auth\\commands\\login\\logincommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B803FD81-C319-A1FF-D390-DA259F026AFA}|FocusFlow.Application\\FocusFlow.Application.csproj|e:\\ieee focus flow\\focusflow.application\\dtos\\tasks\\taskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B803FD81-C319-A1FF-D390-DA259F026AFA}|FocusFlow.Application\\FocusFlow.Application.csproj|solutionrelative:focusflow.application\\dtos\\tasks\\taskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B803FD81-C319-A1FF-D390-DA259F026AFA}|FocusFlow.Application\\FocusFlow.Application.csproj|e:\\ieee focus flow\\focusflow.application\\dtos\\auth\\authresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B803FD81-C319-A1FF-D390-DA259F026AFA}|FocusFlow.Application\\FocusFlow.Application.csproj|solutionrelative:focusflow.application\\dtos\\auth\\authresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B803FD81-C319-A1FF-D390-DA259F026AFA}|FocusFlow.Application\\FocusFlow.Application.csproj|e:\\ieee focus flow\\focusflow.application\\common\\interfaces\\ipasswordhasherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B803FD81-C319-A1FF-D390-DA259F026AFA}|FocusFlow.Application\\FocusFlow.Application.csproj|solutionrelative:focusflow.application\\common\\interfaces\\ipasswordhasherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B803FD81-C319-A1FF-D390-DA259F026AFA}|FocusFlow.Application\\FocusFlow.Application.csproj|e:\\ieee focus flow\\focusflow.application\\common\\interfaces\\ijwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B803FD81-C319-A1FF-D390-DA259F026AFA}|FocusFlow.Application\\FocusFlow.Application.csproj|solutionrelative:focusflow.application\\common\\interfaces\\ijwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B803FD81-C319-A1FF-D390-DA259F026AFA}|FocusFlow.Application\\FocusFlow.Application.csproj|e:\\ieee focus flow\\focusflow.application\\common\\interfaces\\icurrentuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B803FD81-C319-A1FF-D390-DA259F026AFA}|FocusFlow.Application\\FocusFlow.Application.csproj|solutionrelative:focusflow.application\\common\\interfaces\\icurrentuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B803FD81-C319-A1FF-D390-DA259F026AFA}|FocusFlow.Application\\FocusFlow.Application.csproj|e:\\ieee focus flow\\focusflow.application\\common\\exceptions\\appexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B803FD81-C319-A1FF-D390-DA259F026AFA}|FocusFlow.Application\\FocusFlow.Application.csproj|solutionrelative:focusflow.application\\common\\exceptions\\appexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E62CB8B3-E947-0397-DC6E-823CBED160E1}|FocusFlow.Domain\\FocusFlow.Domain.csproj|e:\\ieee focus flow\\focusflow.domain\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E62CB8B3-E947-0397-DC6E-823CBED160E1}|FocusFlow.Domain\\FocusFlow.Domain.csproj|solutionrelative:focusflow.domain\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E62CB8B3-E947-0397-DC6E-823CBED160E1}|FocusFlow.Domain\\FocusFlow.Domain.csproj|e:\\ieee focus flow\\focusflow.domain\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E62CB8B3-E947-0397-DC6E-823CBED160E1}|FocusFlow.Domain\\FocusFlow.Domain.csproj|solutionrelative:focusflow.domain\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E62CB8B3-E947-0397-DC6E-823CBED160E1}|FocusFlow.Domain\\FocusFlow.Domain.csproj|e:\\ieee focus flow\\focusflow.domain\\interfaces\\itaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E62CB8B3-E947-0397-DC6E-823CBED160E1}|FocusFlow.Domain\\FocusFlow.Domain.csproj|solutionrelative:focusflow.domain\\interfaces\\itaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E62CB8B3-E947-0397-DC6E-823CBED160E1}|FocusFlow.Domain\\FocusFlow.Domain.csproj|e:\\ieee focus flow\\focusflow.domain\\interfaces\\ifocussessionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E62CB8B3-E947-0397-DC6E-823CBED160E1}|FocusFlow.Domain\\FocusFlow.Domain.csproj|solutionrelative:focusflow.domain\\interfaces\\ifocussessionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E62CB8B3-E947-0397-DC6E-823CBED160E1}|FocusFlow.Domain\\FocusFlow.Domain.csproj|e:\\ieee focus flow\\focusflow.domain\\entities\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E62CB8B3-E947-0397-DC6E-823CBED160E1}|FocusFlow.Domain\\FocusFlow.Domain.csproj|solutionrelative:focusflow.domain\\entities\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E62CB8B3-E947-0397-DC6E-823CBED160E1}|FocusFlow.Domain\\FocusFlow.Domain.csproj|e:\\ieee focus flow\\focusflow.domain\\enums\\taskpriority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E62CB8B3-E947-0397-DC6E-823CBED160E1}|FocusFlow.Domain\\FocusFlow.Domain.csproj|solutionrelative:focusflow.domain\\enums\\taskpriority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E62CB8B3-E947-0397-DC6E-823CBED160E1}|FocusFlow.Domain\\FocusFlow.Domain.csproj|e:\\ieee focus flow\\focusflow.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E62CB8B3-E947-0397-DC6E-823CBED160E1}|FocusFlow.Domain\\FocusFlow.Domain.csproj|solutionrelative:focusflow.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E62CB8B3-E947-0397-DC6E-823CBED160E1}|FocusFlow.Domain\\FocusFlow.Domain.csproj|e:\\ieee focus flow\\focusflow.domain\\entities\\focussession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E62CB8B3-E947-0397-DC6E-823CBED160E1}|FocusFlow.Domain\\FocusFlow.Domain.csproj|solutionrelative:focusflow.domain\\entities\\focussession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71C276F0-C7A1-F3E6-3B6C-367040E0BE91}|FocusFlow.API\\FocusFlow.API.csproj|e:\\ieee focus flow\\focusflow.api\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{71C276F0-C7A1-F3E6-3B6C-367040E0BE91}|FocusFlow.API\\FocusFlow.API.csproj|solutionrelative:focusflow.api\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71C276F0-C7A1-F3E6-3B6C-367040E0BE91}|FocusFlow.API\\FocusFlow.API.csproj|e:\\ieee focus flow\\focusflow.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{71C276F0-C7A1-F3E6-3B6C-367040E0BE91}|FocusFlow.API\\FocusFlow.API.csproj|solutionrelative:focusflow.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71C276F0-C7A1-F3E6-3B6C-367040E0BE91}|FocusFlow.API\\FocusFlow.API.csproj|e:\\ieee focus flow\\focusflow.api\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71C276F0-C7A1-F3E6-3B6C-367040E0BE91}|FocusFlow.API\\FocusFlow.API.csproj|solutionrelative:focusflow.api\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "E:\\IEEE Focus Flow\\FocusFlow.Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "FocusFlow.Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "E:\\IEEE Focus Flow\\FocusFlow.Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "FocusFlow.Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T14:17:56.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "E:\\IEEE Focus Flow\\FocusFlow.Infrastructure\\Persistence\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "FocusFlow.Infrastructure\\Persistence\\UnitOfWork.cs",
+              "ToolTip": "E:\\IEEE Focus Flow\\FocusFlow.Infrastructure\\Persistence\\UnitOfWork.cs",
+              "RelativeToolTip": "FocusFlow.Infrastructure\\Persistence\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T14:17:49.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FocusSessionRepository.cs",
+              "DocumentMoniker": "E:\\IEEE Focus Flow\\FocusFlow.Infrastructure\\Persistence\\Repositories\\FocusSessionRepository.cs",
+              "RelativeDocumentMoniker": "FocusFlow.Infrastructure\\Persistence\\Repositories\\FocusSessionRepository.cs",
+              "ToolTip": "E:\\IEEE Focus Flow\\FocusFlow.Infrastructure\\Persistence\\Repositories\\FocusSessionRepository.cs",
+              "RelativeToolTip": "FocusFlow.Infrastructure\\Persistence\\Repositories\\FocusSessionRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T14:17:37.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "E:\\IEEE Focus Flow\\FocusFlow.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "FocusFlow.API\\Controllers\\AuthController.cs",
+              "ToolTip": "E:\\IEEE Focus Flow\\FocusFlow.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "FocusFlow.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T04:14:45.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FocusSessionConfiguration.cs",
+              "DocumentMoniker": "E:\\IEEE Focus Flow\\FocusFlow.Infrastructure\\Persistence\\Configurations\\FocusSessionConfiguration.cs",
+              "RelativeDocumentMoniker": "FocusFlow.Infrastructure\\Persistence\\Configurations\\FocusSessionConfiguration.cs",
+              "ToolTip": "E:\\IEEE Focus Flow\\FocusFlow.Infrastructure\\Persistence\\Configurations\\FocusSessionConfiguration.cs",
+              "RelativeToolTip": "FocusFlow.Infrastructure\\Persistence\\Configurations\\FocusSessionConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T14:17:08.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PasswordHasherService.cs",
+              "DocumentMoniker": "E:\\IEEE Focus Flow\\FocusFlow.Infrastructure\\Auth\\PasswordHasherService.cs",
+              "RelativeDocumentMoniker": "FocusFlow.Infrastructure\\Auth\\PasswordHasherService.cs",
+              "ToolTip": "E:\\IEEE Focus Flow\\FocusFlow.Infrastructure\\Auth\\PasswordHasherService.cs",
+              "RelativeToolTip": "FocusFlow.Infrastructure\\Auth\\PasswordHasherService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T14:16:59.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JwtOptions.cs",
+              "DocumentMoniker": "E:\\IEEE Focus Flow\\FocusFlow.Infrastructure\\Auth\\JwtOptions.cs",
+              "RelativeDocumentMoniker": "FocusFlow.Infrastructure\\Auth\\JwtOptions.cs",
+              "ToolTip": "E:\\IEEE Focus Flow\\FocusFlow.Infrastructure\\Auth\\JwtOptions.cs",
+              "RelativeToolTip": "FocusFlow.Infrastructure\\Auth\\JwtOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T14:16:41.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GetTasksQueryHandler.cs",
+              "DocumentMoniker": "E:\\IEEE Focus Flow\\FocusFlow.Application\\Features\\Tasks\\Queries\\GetTasks\\GetTasksQueryHandler.cs",
+              "RelativeDocumentMoniker": "FocusFlow.Application\\Features\\Tasks\\Queries\\GetTasks\\GetTasksQueryHandler.cs",
+              "ToolTip": "E:\\IEEE Focus Flow\\FocusFlow.Application\\Features\\Tasks\\Queries\\GetTasks\\GetTasksQueryHandler.cs",
+              "RelativeToolTip": "FocusFlow.Application\\Features\\Tasks\\Queries\\GetTasks\\GetTasksQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T14:16:19.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreateSessionCommand.cs",
+              "DocumentMoniker": "E:\\IEEE Focus Flow\\FocusFlow.Application\\Features\\Sessions\\Commands\\CreateSession\\CreateSessionCommand.cs",
+              "RelativeDocumentMoniker": "FocusFlow.Application\\Features\\Sessions\\Commands\\CreateSession\\CreateSessionCommand.cs",
+              "ToolTip": "E:\\IEEE Focus Flow\\FocusFlow.Application\\Features\\Sessions\\Commands\\CreateSession\\CreateSessionCommand.cs",
+              "RelativeToolTip": "FocusFlow.Application\\Features\\Sessions\\Commands\\CreateSession\\CreateSessionCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T14:15:12.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreateSessionCommandHandler.cs",
+              "DocumentMoniker": "E:\\IEEE Focus Flow\\FocusFlow.Application\\Features\\Sessions\\Commands\\CreateSession\\CreateSessionCommandHandler.cs",
+              "RelativeDocumentMoniker": "FocusFlow.Application\\Features\\Sessions\\Commands\\CreateSession\\CreateSessionCommandHandler.cs",
+              "ToolTip": "E:\\IEEE Focus Flow\\FocusFlow.Application\\Features\\Sessions\\Commands\\CreateSession\\CreateSessionCommandHandler.cs",
+              "RelativeToolTip": "FocusFlow.Application\\Features\\Sessions\\Commands\\CreateSession\\CreateSessionCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T14:14:43.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CurrentUserService.cs",
+              "DocumentMoniker": "E:\\IEEE Focus Flow\\FocusFlow.Infrastructure\\Auth\\CurrentUserService.cs",
+              "RelativeDocumentMoniker": "FocusFlow.Infrastructure\\Auth\\CurrentUserService.cs",
+              "ToolTip": "E:\\IEEE Focus Flow\\FocusFlow.Infrastructure\\Auth\\CurrentUserService.cs",
+              "RelativeToolTip": "FocusFlow.Infrastructure\\Auth\\CurrentUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T03:04:40.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RegisterCommandHandler.cs",
+              "DocumentMoniker": "E:\\IEEE Focus Flow\\FocusFlow.Application\\Features\\Auth\\Commands\\Register\\RegisterCommandHandler.cs",
+              "RelativeDocumentMoniker": "FocusFlow.Application\\Features\\Auth\\Commands\\Register\\RegisterCommandHandler.cs",
+              "ToolTip": "E:\\IEEE Focus Flow\\FocusFlow.Application\\Features\\Auth\\Commands\\Register\\RegisterCommandHandler.cs",
+              "RelativeToolTip": "FocusFlow.Application\\Features\\Auth\\Commands\\Register\\RegisterCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T14:14:29.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FocusSessionDto.cs",
+              "DocumentMoniker": "E:\\IEEE Focus Flow\\FocusFlow.Application\\DTOs\\Sessions\\FocusSessionDto.cs",
+              "RelativeDocumentMoniker": "FocusFlow.Application\\DTOs\\Sessions\\FocusSessionDto.cs",
+              "ToolTip": "E:\\IEEE Focus Flow\\FocusFlow.Application\\DTOs\\Sessions\\FocusSessionDto.cs",
+              "RelativeToolTip": "FocusFlow.Application\\DTOs\\Sessions\\FocusSessionDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T14:12:42.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoginCommandHandler.cs",
+              "DocumentMoniker": "E:\\IEEE Focus Flow\\FocusFlow.Application\\Features\\Auth\\Commands\\Login\\LoginCommandHandler.cs",
+              "RelativeDocumentMoniker": "FocusFlow.Application\\Features\\Auth\\Commands\\Login\\LoginCommandHandler.cs",
+              "ToolTip": "E:\\IEEE Focus Flow\\FocusFlow.Application\\Features\\Auth\\Commands\\Login\\LoginCommandHandler.cs",
+              "RelativeToolTip": "FocusFlow.Application\\Features\\Auth\\Commands\\Login\\LoginCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T14:13:20.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginCommand.cs",
+              "DocumentMoniker": "E:\\IEEE Focus Flow\\FocusFlow.Application\\Features\\Auth\\Commands\\Login\\LoginCommand.cs",
+              "RelativeDocumentMoniker": "FocusFlow.Application\\Features\\Auth\\Commands\\Login\\LoginCommand.cs",
+              "ToolTip": "E:\\IEEE Focus Flow\\FocusFlow.Application\\Features\\Auth\\Commands\\Login\\LoginCommand.cs",
+              "RelativeToolTip": "FocusFlow.Application\\Features\\Auth\\Commands\\Login\\LoginCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T14:13:06.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TaskDto.cs",
+              "DocumentMoniker": "E:\\IEEE Focus Flow\\FocusFlow.Application\\DTOs\\Tasks\\TaskDto.cs",
+              "RelativeDocumentMoniker": "FocusFlow.Application\\DTOs\\Tasks\\TaskDto.cs",
+              "ToolTip": "E:\\IEEE Focus Flow\\FocusFlow.Application\\DTOs\\Tasks\\TaskDto.cs",
+              "RelativeToolTip": "FocusFlow.Application\\DTOs\\Tasks\\TaskDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T14:12:55.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AuthResponseDto.cs",
+              "DocumentMoniker": "E:\\IEEE Focus Flow\\FocusFlow.Application\\DTOs\\Auth\\AuthResponseDto.cs",
+              "RelativeDocumentMoniker": "FocusFlow.Application\\DTOs\\Auth\\AuthResponseDto.cs",
+              "ToolTip": "E:\\IEEE Focus Flow\\FocusFlow.Application\\DTOs\\Auth\\AuthResponseDto.cs",
+              "RelativeToolTip": "FocusFlow.Application\\DTOs\\Auth\\AuthResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T14:12:35.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IPasswordHasherService.cs",
+              "DocumentMoniker": "E:\\IEEE Focus Flow\\FocusFlow.Application\\Common\\Interfaces\\IPasswordHasherService.cs",
+              "RelativeDocumentMoniker": "FocusFlow.Application\\Common\\Interfaces\\IPasswordHasherService.cs",
+              "ToolTip": "E:\\IEEE Focus Flow\\FocusFlow.Application\\Common\\Interfaces\\IPasswordHasherService.cs",
+              "RelativeToolTip": "FocusFlow.Application\\Common\\Interfaces\\IPasswordHasherService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T14:12:21.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IJwtProvider.cs",
+              "DocumentMoniker": "E:\\IEEE Focus Flow\\FocusFlow.Application\\Common\\Interfaces\\IJwtProvider.cs",
+              "RelativeDocumentMoniker": "FocusFlow.Application\\Common\\Interfaces\\IJwtProvider.cs",
+              "ToolTip": "E:\\IEEE Focus Flow\\FocusFlow.Application\\Common\\Interfaces\\IJwtProvider.cs",
+              "RelativeToolTip": "FocusFlow.Application\\Common\\Interfaces\\IJwtProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T14:12:17.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ICurrentUserService.cs",
+              "DocumentMoniker": "E:\\IEEE Focus Flow\\FocusFlow.Application\\Common\\Interfaces\\ICurrentUserService.cs",
+              "RelativeDocumentMoniker": "FocusFlow.Application\\Common\\Interfaces\\ICurrentUserService.cs",
+              "ToolTip": "E:\\IEEE Focus Flow\\FocusFlow.Application\\Common\\Interfaces\\ICurrentUserService.cs",
+              "RelativeToolTip": "FocusFlow.Application\\Common\\Interfaces\\ICurrentUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T14:12:13.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AppException.cs",
+              "DocumentMoniker": "E:\\IEEE Focus Flow\\FocusFlow.Application\\Common\\Exceptions\\AppException.cs",
+              "RelativeDocumentMoniker": "FocusFlow.Application\\Common\\Exceptions\\AppException.cs",
+              "ToolTip": "E:\\IEEE Focus Flow\\FocusFlow.Application\\Common\\Exceptions\\AppException.cs",
+              "RelativeToolTip": "FocusFlow.Application\\Common\\Exceptions\\AppException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T14:12:04.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "E:\\IEEE Focus Flow\\FocusFlow.Domain\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "FocusFlow.Domain\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "E:\\IEEE Focus Flow\\FocusFlow.Domain\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "FocusFlow.Domain\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T14:05:39.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "E:\\IEEE Focus Flow\\FocusFlow.Domain\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "FocusFlow.Domain\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "E:\\IEEE Focus Flow\\FocusFlow.Domain\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "FocusFlow.Domain\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T14:05:28.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ITaskRepository.cs",
+              "DocumentMoniker": "E:\\IEEE Focus Flow\\FocusFlow.Domain\\Interfaces\\ITaskRepository.cs",
+              "RelativeDocumentMoniker": "FocusFlow.Domain\\Interfaces\\ITaskRepository.cs",
+              "ToolTip": "E:\\IEEE Focus Flow\\FocusFlow.Domain\\Interfaces\\ITaskRepository.cs",
+              "RelativeToolTip": "FocusFlow.Domain\\Interfaces\\ITaskRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T14:04:56.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IFocusSessionRepository.cs",
+              "DocumentMoniker": "E:\\IEEE Focus Flow\\FocusFlow.Domain\\Interfaces\\IFocusSessionRepository.cs",
+              "RelativeDocumentMoniker": "FocusFlow.Domain\\Interfaces\\IFocusSessionRepository.cs",
+              "ToolTip": "E:\\IEEE Focus Flow\\FocusFlow.Domain\\Interfaces\\IFocusSessionRepository.cs",
+              "RelativeToolTip": "FocusFlow.Domain\\Interfaces\\IFocusSessionRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T14:04:51.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "TaskPriority.cs",
+              "DocumentMoniker": "E:\\IEEE Focus Flow\\FocusFlow.Domain\\Enums\\TaskPriority.cs",
+              "RelativeDocumentMoniker": "FocusFlow.Domain\\Enums\\TaskPriority.cs",
+              "ToolTip": "E:\\IEEE Focus Flow\\FocusFlow.Domain\\Enums\\TaskPriority.cs",
+              "RelativeToolTip": "FocusFlow.Domain\\Enums\\TaskPriority.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T14:04:38.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "TaskItem.cs",
+              "DocumentMoniker": "E:\\IEEE Focus Flow\\FocusFlow.Domain\\Entities\\TaskItem.cs",
+              "RelativeDocumentMoniker": "FocusFlow.Domain\\Entities\\TaskItem.cs",
+              "ToolTip": "E:\\IEEE Focus Flow\\FocusFlow.Domain\\Entities\\TaskItem.cs",
+              "RelativeToolTip": "FocusFlow.Domain\\Entities\\TaskItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T14:03:41.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\IEEE Focus Flow\\FocusFlow.Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "FocusFlow.Domain\\Entities\\User.cs",
+              "ToolTip": "E:\\IEEE Focus Flow\\FocusFlow.Domain\\Entities\\User.cs",
+              "RelativeToolTip": "FocusFlow.Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T13:57:10.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "appsettings.Production.json",
+              "DocumentMoniker": "E:\\IEEE Focus Flow\\FocusFlow.API\\appsettings.Production.json",
+              "RelativeDocumentMoniker": "FocusFlow.API\\appsettings.Production.json",
+              "ToolTip": "E:\\IEEE Focus Flow\\FocusFlow.API\\appsettings.Production.json",
+              "RelativeToolTip": "FocusFlow.API\\appsettings.Production.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-10T04:40:59.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "FocusSession.cs",
+              "DocumentMoniker": "E:\\IEEE Focus Flow\\FocusFlow.Domain\\Entities\\FocusSession.cs",
+              "RelativeDocumentMoniker": "FocusFlow.Domain\\Entities\\FocusSession.cs",
+              "ToolTip": "E:\\IEEE Focus Flow\\FocusFlow.Domain\\Entities\\FocusSession.cs",
+              "RelativeToolTip": "FocusFlow.Domain\\Entities\\FocusSession.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T04:14:56.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\IEEE Focus Flow\\FocusFlow.API\\appsettings.json",
+              "RelativeDocumentMoniker": "FocusFlow.API\\appsettings.json",
+              "ToolTip": "E:\\IEEE Focus Flow\\FocusFlow.API\\appsettings.json",
+              "RelativeToolTip": "FocusFlow.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-10T03:07:38.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "TasksController.cs",
+              "DocumentMoniker": "E:\\IEEE Focus Flow\\FocusFlow.API\\Controllers\\TasksController.cs",
+              "RelativeDocumentMoniker": "FocusFlow.API\\Controllers\\TasksController.cs",
+              "ToolTip": "E:\\IEEE Focus Flow\\FocusFlow.API\\Controllers\\TasksController.cs",
+              "RelativeToolTip": "FocusFlow.API\\Controllers\\TasksController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T03:05:08.444Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

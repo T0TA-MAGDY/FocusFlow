@@ -1,0 +1,5 @@
+E:\IEEE Focus Flow\FocusFlow.Application\obj\Debug\net10.0\FocusFlow.Application.csproj.AssemblyReference.cache
+E:\IEEE Focus Flow\FocusFlow.Application\obj\Debug\net10.0\FocusFlow.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\IEEE Focus Flow\FocusFlow.Application\obj\Debug\net10.0\FocusFlow.Application.AssemblyInfoInputs.cache
+E:\IEEE Focus Flow\FocusFlow.Application\obj\Debug\net10.0\FocusFlow.Application.AssemblyInfo.cs
+E:\IEEE Focus Flow\FocusFlow.Application\obj\Debug\net10.0\FocusFlow.Application.csproj.CoreCompileInputs.cache
